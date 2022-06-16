@@ -1,0 +1,29 @@
+.logo-img {
+  position: relative;
+  width: 210px;
+  margin: 20px auto;
+  height: 70px;
+}
+.img-wrapper {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #ccc;
+  z-index: -1;
+  border-radius: 5px;
+}
+.img {
+  position: absolute;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+.import {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 200px;
+}
