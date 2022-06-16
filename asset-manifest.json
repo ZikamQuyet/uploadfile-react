@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.78ffa098.css",
+    "main.js": "./static/js/main.b6498b41.js",
+    "static/js/787.29c8feeb.chunk.js": "./static/js/787.29c8feeb.chunk.js",
+    "static/media/React_logo_wordmark.jpg": "./static/media/React_logo_wordmark.2d349ba5356bb38de827.jpg",
+    "index.html": "./index.html",
+    "main.78ffa098.css.map": "./static/css/main.78ffa098.css.map",
+    "main.b6498b41.js.map": "./static/js/main.b6498b41.js.map",
+    "787.29c8feeb.chunk.js.map": "./static/js/787.29c8feeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78ffa098.css",
+    "static/js/main.b6498b41.js"
+  ]
+}
